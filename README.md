@@ -1,5 +1,5 @@
 # ComputerVisionWithPython
-実践コンピュータビジョン Py3.x  
+実践コンピュータビジョン Pytnon3
 https://www.oreilly.co.jp/books/9784873116075/  
   
 
